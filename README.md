@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Big%20Data-Hadoop-blue?style=flat-square&logo=apachehadoop" />
-  <img src="https://img.shields.io/badge/Spark-PySpark-orange?style=flat-square&logo=apachespark" />
+  <img src="https://img.shields.io/badge/Apache-Spark-orange?style=flat-square&logo=apachespark" />
   <img src="https://img.shields.io/badge/Kubernetes-CKA-blue?style=flat-square&logo=kubernetes" />
   <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=flat-square&logo=amazonaws" />
 </p>
