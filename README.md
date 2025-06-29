@@ -17,7 +17,7 @@
 - ⚙️ Built tools to **auto-deploy clusters, detect stale jobs and eliminate them, automated CDP and Spark upgrades**
 - ☁️ Trained in **AWS**: EC2, S3, EMR, Redshift, CloudWatch, IAM, VPC
 - 🧠 Loves **Shell scripting, Python & Ansible** for automation
-- 🏆 Winner of Cognizant Big Data Hackathon | ⭐ Star Performer at Cloudera
+- 🏆 Winner of Cognizant Big Data Hackathon | ⭐ Star Performer at Cloudera | 🔥 Cluster Whisperer at Barclays
 
 ---
 
