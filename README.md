@@ -23,15 +23,8 @@
 
 ### 🛠️ Technologies & Tools
 
-### 🛠️ Tech Stack
-
-- ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg =20x20) **Python**
-- ![Shell](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg =20x20) **Shell Script**
-- ![Hadoop](https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg =20x20) **Hadoop**
-- ![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg =20x20) **Linux**
-- ![Spark](https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg =20x20) **Apache Spark**
-- ![Kubernetes](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg =20x20) **Kubernetes**
-- ![AWS](https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg =20x20) **AWS**
+| 🐍 Python     | 🐚 Shell-Script | ☸️ Kubernetes  | 🐘 Hadoop     | ⚡ Spark      | ☁️ AWS       | 🐧 Linux     |
+|---------------|-----------------|----------------|---------------|--------------|--------------|---------------|
 
 ---
 
