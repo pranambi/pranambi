@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Praneeth S Nambiar</h1>
-<h3 align="center">🚀 Senior Big Data Specilist | Automation Enthusiast | Cloudera Certified | Kubernetes Admin </h3>
+<h3 align="center">🚀 Senior Big Data Specilist | Automation Enthusiast | Certified Cloudera Admin | Certified Kubernetes Admin </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Big%20Data-Hadoop-blue?style=flat-square&logo=apachehadoop" />
