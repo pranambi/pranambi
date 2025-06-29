@@ -25,36 +25,37 @@
 
 <table align="center">
   <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br/>
-      <sub><b>Python</b></sub>
-    </td>
-    <td align="center">
+    <td align="center" width="80">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/><br/>
       <sub><b>Shell</b></sub>
     </td>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" width="40"/><br/>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br/>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" width="34" style="margin-top: 6px"/><br/>
       <sub><b>Hadoop</b></sub>
     </td>
-    <td align="center">
+    <td align="center" width="80">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/><br/>
       <sub><b>Linux</b></sub>
     </td>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="40"/><br/>
+    <td align="center" width="80">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="45" style="margin-top: 4px"/><br/>
       <sub><b>Spark</b></sub>
     </td>
-    <td align="center">
+    <td align="center" width="80">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width="40"/><br/>
       <sub><b>Kubernetes</b></sub>
     </td>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="40"/><br/>
+    <td align="center" width="80">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="50" style="margin-top: 2px"/><br/>
       <sub><b>AWS</b></sub>
     </td>
   </tr>
 </table>
+
 
 
 
