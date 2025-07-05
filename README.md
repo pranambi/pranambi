@@ -23,7 +23,7 @@
 
 ### 🛠️ Technologies & Tools
 
-| 🐍 Python     | 🐚 Shell-Script | ☸️ Kubernetes  | 🐘 Hadoop     | ⚡ Spark      | ☁️ AWS       | 🐧 Linux     |
+| 🐍 Python     | 🐚 Shell-Script | ☸️ Kubernetes  | 🐘 Hadoop     | ⚡ Spark      | 🐧 Linux      | ☁️ AWS     |
 |---------------|-----------------|----------------|---------------|--------------|--------------|---------------|
 
 ---
